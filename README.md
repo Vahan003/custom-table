@@ -1,4 +1,4 @@
-## Deployed in- [https://vahan003.github.io/customTable/]
+## Deployed in- [https://vahan003.github.io/custom-table/]
 
 # Getting Started with Create React App
 
